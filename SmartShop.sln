@@ -68,4 +68,14 @@ Global
 		{C021F32B-DD6A-4286-A065-E21D8B250F76}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
 		{C021F32B-DD6A-4286-A065-E21D8B250F76}.AppStore|iPhone.Build.0 = Debug|Any CPU
 	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = application/xaml+xml
+		$0.XmlFormattingPolicy = $2
+		$2.DefaultFormat = $3
+		$3.AttributesInNewLine = True
+		$2.scope = application/xaml+xml
+	EndGlobalSection
 EndGlobal
